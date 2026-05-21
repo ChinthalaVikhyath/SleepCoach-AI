@@ -1,0 +1,6 @@
+{
+  "name": "SleepCoach AI",
+  "description": "A personalized sleep wellness assistant powered by evidence-based coaching, pattern analysis, and Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
